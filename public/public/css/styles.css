@@ -1,0 +1,61 @@
+body{
+	margin-bottom: 80px;
+	margin-top: 80px;
+}
+.page-header {
+	margin-top: 0;
+}
+
+.panel-body {
+	padding-top: 0;
+}
+
+.panel-body p {
+	margin-top: 5px;
+}
+
+.featuredImg {
+	margin-bottom: 15px;
+	width: 100%;
+}
+
+.img-thumbnail
+{
+	margin: 5px 5px 5px 0px;
+}
+
+.carousel {
+	margin-bottom: 25px;
+	border: 10px solid #ddd;
+	border-radius: 25px;
+}
+
+
+
+.item h2{
+    margin: 0;     
+    color: #666;
+    padding-top: 90px;
+    font-size: 52px;
+    font-family: "trebuchet ms", sans-serif;    
+}
+.item{
+    background: #333;    
+    text-align: center;
+    height: 300px !important;
+}
+
+.list-group
+{
+	margin-top: 15px;
+}
+
+
+@media (min-width:340px) and (max-width:979px){
+
+	.hideble{
+
+		display:none;
+		visibility: collapse;
+	}
+}

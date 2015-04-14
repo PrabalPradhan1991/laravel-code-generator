@@ -1,0 +1,18 @@
+.app {
+	
+}
+
+.app-title {
+}
+
+.app-body {
+	
+}
+
+.app-body > table {
+	width: 100%;
+}
+
+.complete {
+	text-decoration: line-through;
+}

@@ -1,0 +1,35 @@
+.pra_autosuggest, .pra_autosuggest_results_table, .pra_autosuggest_results
+{
+	width: 250px;
+}
+
+.pra_autosuggest_results
+{
+	
+	position: absolute;
+	/*left: 173.2685546875px;*/
+	z-index: 1 !important;
+}
+
+.pra_autosuggest_results li
+{
+	
+	/*position: inherit;*/
+
+	list-style: none;
+	border: 1px solid #000;
+	border-top: none;
+	padding: 5px;
+	cursor: pointer;
+	background: #EEEEEE;
+	margin-left: -40px;
+	
+}
+
+.pra_autosuggest_results li:hover
+{
+	
+	background: #000;
+	color: #fff;
+
+}
